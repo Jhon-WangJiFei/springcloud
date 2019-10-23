@@ -1,0 +1,9 @@
+com\wjf\cloudstudy\cloudBus\ProductEvent.class
+com\wjf\cloudstudy\kafka\ProductMsg.class
+com\wjf\cloudstudy\entity\Product.class
+com\wjf\cloudstudy\service\HelloProvider.class
+com\wjf\cloudstudy\service\ProductService.class
+com\wjf\cloudstudy\ProviderApplication.class
+com\wjf\cloudstudy\util\RemoteApplicationEventPublisher.class
+com\wjf\cloudstudy\util\ApplicationContextHolder.class
+com\wjf\cloudstudy\service\ProductProvider.class

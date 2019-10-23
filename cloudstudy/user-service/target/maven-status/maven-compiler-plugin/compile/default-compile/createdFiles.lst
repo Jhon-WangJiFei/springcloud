@@ -1,0 +1,3 @@
+com\cloudstudy\entity\User.class
+com\cloudstudy\controller\UserController.class
+com\cloudstudy\UserServicesApplication.class

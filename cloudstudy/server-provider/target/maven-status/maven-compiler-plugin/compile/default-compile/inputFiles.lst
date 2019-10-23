@@ -1,0 +1,9 @@
+D:\opsWork\wjf\cloudstudy\server-provider\src\main\java\com\wjf\cloudstudy\util\ApplicationContextHolder.java
+D:\opsWork\wjf\cloudstudy\server-provider\src\main\java\com\wjf\cloudstudy\ProviderApplication.java
+D:\opsWork\wjf\cloudstudy\server-provider\src\main\java\com\wjf\cloudstudy\service\ProductService.java
+D:\opsWork\wjf\cloudstudy\server-provider\src\main\java\com\wjf\cloudstudy\entity\Product.java
+D:\opsWork\wjf\cloudstudy\server-provider\src\main\java\com\wjf\cloudstudy\cloudBus\ProductEvent.java
+D:\opsWork\wjf\cloudstudy\server-provider\src\main\java\com\wjf\cloudstudy\util\RemoteApplicationEventPublisher.java
+D:\opsWork\wjf\cloudstudy\server-provider\src\main\java\com\wjf\cloudstudy\kafka\ProductMsg.java
+D:\opsWork\wjf\cloudstudy\server-provider\src\main\java\com\wjf\cloudstudy\service\HelloProvider.java
+D:\opsWork\wjf\cloudstudy\server-provider\src\main\java\com\wjf\cloudstudy\service\ProductProvider.java

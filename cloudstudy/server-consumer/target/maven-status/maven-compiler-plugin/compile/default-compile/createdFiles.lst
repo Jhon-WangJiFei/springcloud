@@ -1,0 +1,6 @@
+com\wjf\cloudstudy\service\ProductFallBackService.class
+com\wjf\cloudstudy\entity\Product.class
+com\wjf\cloudstudy\service\ProductService.class
+com\wjf\cloudstudy\ConsumerApplication.class
+com\wjf\cloudstudy\Controller\HelloController.class
+com\wjf\cloudstudy\Controller\ProductController.class
